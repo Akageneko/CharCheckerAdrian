@@ -1,0 +1,46 @@
+﻿checkSelected	
+checkPallet	
+planningDate	.*
+checkSendPfs	.*
+tourneeId	.*
+checkDynamic	
+rdvOms	
+checkReverse	
+arrivageIndicator	.*
+arrivalAgencyDatetime	.*
+arrPlanningDate	.*
+operationNo	.*
+jfoNo	.*
+checkRDV	.*
+rdvDatetime	.*
+senderName	.*
+consigneeName	.*
+city	.*
+rue1	.*
+rue2	.*
+zip	.*
+packingUnits	^[0-9]+$
+rqsPriority	^[a-zA-Z]+$
+grosWeight	^[0-9]+$
+volume	^[0-9]+$
+lastEventRealStartDate	.*
+lastEventId	.*
+lastEventsubId	.*
+checkValueParcels	
+adviceNo	
+checkAnoPfs	
+productId	.*
+procopKind	^[a-zA-Z]+$
+lastEventReferenceNo	
+packingId	.*
+returnableUnits	.*
+dangerousCommodity	.*
+statusExp	.*
+statusImp	.*
+statusTra	.*
+customsManifestNo	.*
+statusIcs	.*
+tourneeRangNo	.*
+depDate	.*
+dangPoints	.*
+instructions	.*
